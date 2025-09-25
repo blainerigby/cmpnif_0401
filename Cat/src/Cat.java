@@ -16,7 +16,7 @@ public class Cat {
             System.out.println(name+" is a senior. (11+)");
         }
 
-		//catorizingn the users cats energy to give feedback on what kinda activities it could do24
+		//catorizing the users cats energy to give feedback on what kinda activities it could do24
 		if (energyLevel>=1 && energyLevel<=3){
 			System.out.println(name+" has low energy. Some recomended activities are napping/bird watching. ");
 		}else if(energyLevel>=4 && energyLevel<=6){
